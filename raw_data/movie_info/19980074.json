@@ -1,0 +1,117 @@
+{
+	"movieInfoResult": {
+		"movieInfo": {
+			"movieCd": "19980074",
+			"movieNm": "타이타닉",
+			"movieNmEn": "Titanic",
+			"movieNmOg": "",
+			"showTm": "194",
+			"prdtYear": "1997",
+			"openDt": "19980220",
+			"prdtStatNm": "개봉",
+			"typeNm": "장편",
+			"nations": [
+				{
+					"nationNm": "미국"
+				}
+			],
+			"genres": [
+				{
+					"genreNm": "드라마"
+				},
+				{
+					"genreNm": "멜로/로맨스"
+				},
+				{
+					"genreNm": "액션"
+				}
+			],
+			"directors": [
+				{
+					"peopleNm": "제임스 카메론",
+					"peopleNmEn": "James Cameron"
+				}
+			],
+			"actors": [
+				{
+					"peopleNm": "레오나르도 디카프리오",
+					"peopleNmEn": "Leonardo Dicaprio",
+					"cast": "",
+					"castEn": ""
+				},
+				{
+					"peopleNm": "케이트 윈슬렛",
+					"peopleNmEn": "Kate Winslet",
+					"cast": "",
+					"castEn": ""
+				}
+			],
+			"showTypes": [
+				{
+					"showTypeGroupNm": "필름",
+					"showTypeNm": "필름"
+				},
+				{
+					"showTypeGroupNm": "2D",
+					"showTypeNm": "디지털"
+				},
+				{
+					"showTypeGroupNm": "3D",
+					"showTypeNm": "3D 디지털"
+				},
+				{
+					"showTypeGroupNm": "4D",
+					"showTypeNm": "4D"
+				},
+				{
+					"showTypeGroupNm": "IMAX",
+					"showTypeNm": "IMAX 3D"
+				}
+			],
+			"companys": [
+				{
+					"companyCd": "20104469",
+					"companyNm": "파라마운트 픽쳐스",
+					"companyNmEn": "Paramount Pictures",
+					"companyPartNm": "제작사"
+				},
+				{
+					"companyCd": "20040021",
+					"companyNm": "씨네힐",
+					"companyNmEn": "CINEHILL",
+					"companyPartNm": "배급사"
+				},
+				{
+					"companyCd": "20100041",
+					"companyNm": "이십세기폭스코리아(주)",
+					"companyNmEn": "20th Century Fox Korea",
+					"companyPartNm": "배급사"
+				},
+				{
+					"companyCd": "20142849",
+					"companyNm": "(주)영화사오원",
+					"companyNmEn": "",
+					"companyPartNm": "수입사"
+				},
+				{
+					"companyCd": "20040021",
+					"companyNm": "씨네힐",
+					"companyNmEn": "CINEHILL",
+					"companyPartNm": "수입사"
+				}
+			],
+			"audits": [
+				{
+					"auditNo": "K98-12",
+					"watchGradeNm": "15세 미만인 자는 관람할 수 없는 등급 "
+				},
+				{
+					"auditNo": "2012-F155",
+					"watchGradeNm": "15세이상관람가"
+				}
+			],
+			"staffs": []
+		},
+		"source": "영화진흥위원회"
+	}
+}
